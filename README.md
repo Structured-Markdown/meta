@@ -1,2 +1,2 @@
 # meta
-Organization wide issues and such
+Repo for organizational issues and planning
